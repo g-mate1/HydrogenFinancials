@@ -5,10 +5,22 @@ One markdown file per company in `companies/`.
 
 ## Scope
 
-Phase 1 covers ten hydrogen pure-plays and dedicated fuel-cell /
-electrolyser specialists. Future phases may add industrial-gas majors
-(Linde, Air Liquide, Air Products), H2 offtakers (voestalpine, Thyssen-
-krupp Steel), and emerging mobility / integration players.
+- **Phase 1** covers ten hydrogen pure-plays and dedicated fuel-cell
+  / electrolyser specialists.
+- **Phase 2** adds fourteen more companies: industrial-gas majors
+  (Air Liquide, Linde), integrated oil & energy majors with explicit
+  hydrogen segments (Shell, TotalEnergies, BP, OMV), hydrogen
+  infrastructure TSOs (Snam, Enagás), Siemens Energy (electrolyser
+  JV with Air Liquide), Iberdrola (green-H2 production via
+  renewables), and four additional pure-plays (Hexagon Purus,
+  Enapter, AFC Energy, Everfuel).
+
+For the hydrogen-exposed majors, Phase 2 profiles focus on the
+hydrogen segment rather than summarising the whole group: hydrogen
+project portfolios, low-carbon capex commitments, and segment-level
+disclosures are itemised where available, with "not disclosed"
+flagged when the company rolls hydrogen up into broader
+divisions.
 
 ## Methodology
 
@@ -40,5 +52,31 @@ krupp Steel), and emerging mobility / integration players.
 | 8 | McPhy Energy | MCPHY (Euronext Paris) | France | Alkaline electrolysers, refuelling | [mcphy-energy.md](companies/mcphy-energy.md) |
 | 9 | PowerCell Sweden | PCELL (Nasdaq Stockholm) | Sweden | PEM fuel cell stacks / systems | [powercell-sweden.md](companies/powercell-sweden.md) |
 | 10 | FuelCell Energy | FCEL (NASDAQ) | USA | Carbonate FC / SOEC | [fuelcell-energy.md](companies/fuelcell-energy.md) |
+
+## Company index (Phase 2 — majors & European pure-plays)
+
+### Hydrogen-exposed majors (segment focus)
+
+| # | Company | Ticker | HQ | Hydrogen angle | File |
+|---|---|---|---|---|---|
+| 11 | Siemens Energy | ENR (Xetra) | Germany | Silyzer PEM electrolyser via 74.9% JV with Air Liquide; Transformation of Industry segment | [siemens-energy.md](companies/siemens-energy.md) |
+| 12 | Air Liquide | AI (Euronext Paris) | France | €8bn H2 capex to 2035; Normand'Hy, ELYgator, Baytown; 25.1% Siemens JV | [air-liquide.md](companies/air-liquide.md) |
+| 13 | Linde plc | LIN (NYSE / Xetra) | Ireland | Beaumont, Fort Saskatchewan, Niagara, GET H2 Nukleus; >$10bn clean-energy backlog | [linde.md](companies/linde.md) |
+| 14 | Shell plc | SHEL (LSE / NYSE) | Netherlands | Holland Hydrogen 1, REFHYNE II, Green Energy Oman 35%; mobility scale-back | [shell.md](companies/shell.md) |
+| 15 | TotalEnergies | TTE (Euronext Paris) | France | 500 kt/yr green H2 for European refinery decarbonisation by 2030 | [totalenergies.md](companies/totalenergies.md) |
+| 16 | BP plc | BP (LSE / NYSE) | UK | Lingen 100 MW, Castellón 25 MW; most hydrogen projects de-prioritised in 2025 reset | [bp.md](companies/bp.md) |
+| 17 | OMV AG | OMV (Wiener Börse) | Austria | Schwechat 10 MW PEM live; 140 MW Bruck an der Leitha (Masdar JV, 2027) | [omv.md](companies/omv.md) |
+| 18 | Snam | SRG (Borsa Italiana) | Italy | SoutH2 Corridor lead TSO; 1,920 km Italian hydrogen backbone; 33% De Nora stake | [snam.md](companies/snam.md) |
+| 19 | Iberdrola | IBE (Bolsa de Madrid) | Spain | 800 MW green-H2 portfolio (Puertollano, Palos, Castellón); Fertiberia / BP offtake | [iberdrola.md](companies/iberdrola.md) |
+| 20 | Enagás | ENG (Bolsa de Madrid) | Spain | Spanish H2 Backbone ~2,700 km + H2Med / BarMar corridor (PCI) | [enagas.md](companies/enagas.md) |
+
+### Additional European pure-plays
+
+| # | Company | Ticker | HQ | Segment | File |
+|---|---|---|---|---|---|
+| 21 | Hexagon Purus | HPUR (Oslo Børs) | Norway | Type 4 composite hydrogen storage cylinders & systems | [hexagon-purus.md](companies/hexagon-purus.md) |
+| 22 | Enapter | H2O (Xetra) | Germany | AEM (Anion Exchange Membrane) electrolysers; modular H2 | [enapter.md](companies/enapter.md) |
+| 23 | AFC Energy | AFC (LSE AIM) | UK | Alkaline fuel cells; Hy-5 ammonia cracker | [afc-energy.md](companies/afc-energy.md) |
+| 24 | Everfuel | EFUEL (Euronext Growth Oslo, **delisted Jan 2025**) | Denmark | Nordic green-H2 production / distribution / retail | [everfuel.md](companies/everfuel.md) |
 
 See [TEMPLATE.md](TEMPLATE.md) for the standard file layout.
