@@ -79,4 +79,28 @@ divisions.
 | 23 | AFC Energy | AFC (LSE AIM) | UK | Alkaline fuel cells; Hy-5 ammonia cracker | [afc-energy.md](companies/afc-energy.md) |
 | 24 | Everfuel | EFUEL (Euronext Growth Oslo, **delisted Jan 2025**) | Denmark | Nordic green-H2 production / distribution / retail | [everfuel.md](companies/everfuel.md) |
 
+## Company index (Phase 3 — additional public & private firms)
+
+### Public companies — majors, mid-cap specialists, distressed
+
+| # | Company | Ticker | HQ | Hydrogen angle | File |
+|---|---|---|---|---|---|
+| 25 | Air Products | APD (NYSE) | USA | World's largest H2 producer; NEOM 2 GW green H2 JV, Louisiana blue H2, Rotterdam | [air-products.md](companies/air-products.md) |
+| 26 | Cummins / Accelera | CMI (NYSE) | USA | Accelera electrolyser business; **exited new electrolyser sales Feb 2026** after $458m FY2025 impairment | [cummins-accelera.md](companies/cummins-accelera.md) |
+| 27 | Chart Industries | GTLS (NYSE) | USA | Hydrogen liquefaction, LH2 tanks, Howden compressors; **Flowserve merger closed Feb 2026, Baker Hughes acquisition pending Q2 2026** | [chart-industries.md](companies/chart-industries.md) |
+| 28 | Fortescue | FMG (ASX) | Australia | Iron ore major; 15 Mt/yr H2 target abandoned 2024; Pecém + Holmaneset surviving; $150m July 2025 write-down | [fortescue.md](companies/fortescue.md) |
+| 29 | SFC Energy | F3C (Xetra) | Germany | Portable H2 & methanol fuel cells (EFOY Pro, EMILY, JENNY); NATO / defence; rare adjusted-EBITDA positive pure-play | [sfc-energy.md](companies/sfc-energy.md) |
+| 30 | Doosan Fuel Cell | 336260 (KRX) | South Korea | PAFC (HyAxiom / UTC Power) + SOFC (Ceres Power licence, mass production Jul 2025); Korean HPS / CHPS market | [doosan-fuel-cell.md](companies/doosan-fuel-cell.md) |
+| 31 | Advent Technologies | ADN (NASDAQ → OTC ADNH) | USA | HT-PEM fuel cells; **Nasdaq delisting Oct 2025**, going-concern, Ion Pair licence | [advent-technologies.md](companies/advent-technologies.md) |
+| 32 | Hydrogen Capital Growth | HGEN (LSE) | UK | First London-listed hydrogen investment trust; **managed realisation from Jul 2025** under Redwheel | [hydrogenone-capital.md](companies/hydrogenone-capital.md) |
+| 33 | Atome plc | ATOM (AIM / LSE) | UK | Pre-revenue green-H2 / ammonia / fertiliser project developer; flagship 145 MW Villeta project (Paraguay) | [atome.md](companies/atome.md) |
+
+### Well-funded private companies (limited disclosure)
+
+| # | Company | Status | HQ | Hydrogen angle | File |
+|---|---|---|---|---|---|
+| 34 | Electric Hydrogen | Private (VC) | USA | 100 MW HyPrime PEM plants; $380m Series C Oct 2023; Amazon data-centre partnership | [electric-hydrogen.md](companies/electric-hydrogen.md) |
+| 35 | Sunfire | Private (VC) | Germany | SOEC + pressurised alkaline; Multi-PLHY Rotterdam 2.6 MW SOEC; RWE GET H2 Nukleus 100 MW; €800 MW+ backlog | [sunfire.md](companies/sunfire.md) |
+| 36 | Stegra / H2 Green Steel | Private | Sweden | 740 MW alkaline electrolyser (thyssenkrupp nucera) + DRI + EAF green steel; 2.5 Mt/yr initial capacity; Q4 2026 COD | [stegra.md](companies/stegra.md) |
+
 See [TEMPLATE.md](TEMPLATE.md) for the standard file layout.
