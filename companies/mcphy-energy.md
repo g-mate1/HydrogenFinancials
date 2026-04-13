@@ -33,9 +33,9 @@ suspended the same day.
 | Metric | FY2022 | FY2023 | FY2024 | YoY (24/23) |
 |---|---|---|---|---|
 | Revenue | €16.1m | €18.8m | €13.2m | −30% |
-| Operating loss / EBIT | (€38.4m) | (€50.2m) | (€58.3m) | −16% |
-| EBITDA | (€36.8m) | (€44.6m) | (€43.5m) | −3% |
-| Net loss | (€38.2m) | (€47.4m) | (€74.1m) | −56% |
+| Operating loss / EBIT | (€38.4m) | (€50.2m) | (€58.3m) | worsened 16% |
+| EBITDA | (€36.8m) | (€44.6m) | (€43.5m) | improved 2.5% |
+| Net loss | (€38.2m) | (€47.4m) | (€74.1m) | worsened 56% |
 | Cash & equivalents (end of period) | €135.5m | €63.0m | €39.6m | −37% |
 | Total debt | €6.1m | €4.9m | not disclosed | — |
 | Net cash / (net debt) | €129.4m | €58.1m | — | — |
@@ -61,7 +61,7 @@ Source: [H1 2024 Results](https://www.globenewswire.com/news-release/2024/10/29/
 | | FY2022 | FY2023 | FY2024 | CAGR |
 |---|---|---|---|---|
 | Revenue | €16.1m | €18.8m | €13.2m | −13.4% |
-| Net loss | (€38.2m) | (€47.4m) | (€74.1m) | −39.2% |
+| Net loss | (€38.2m) | (€47.4m) | (€74.1m) | worsened 39.2% CAGR |
 
 ## 5. Hydrogen-specific operational KPIs
 

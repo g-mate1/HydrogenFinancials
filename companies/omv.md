@@ -33,7 +33,7 @@ SoutH2 Corridor.
 | Net income (parent) | €1,480m | €1,389m | −6.1% |
 | Cash & equivalents (end) | not disclosed | €4,447m | — |
 | Total debt | not disclosed | ~€6,900m | — |
-| Net debt | €2,100m | €3,200m (net cash) | — |
+| Net cash position | €2,100m | €3,200m | +52% |
 | Operating cash flow | €5,709m | €5,456m | −4.4% |
 | Free cash flow | not disclosed | €2,304m | — |
 | Employees (FTE) | 20,592 | 23,557 | +14.4% |
@@ -134,7 +134,7 @@ a normalisation rather than structural deterioration.
 | SAF/HVO + 2× green H2 | Petrobrazi, Romania | SAF/HVO + PEM | 250 kt SAF/HVO/yr | FID Jun 2024; 2025–27 build | In development |
 | ReOil® chemical recycling | Schwechat | Pyrolysis + Borealis polymerisation | 200 kt/yr feedstock | 2021–2026 ramp | Operating |
 | e-Methanol pathway | Schwechat | CO2 capture + H2 + e-SAF | TBD | Feasibility | Pre-FID |
-| SoutH2 Corridor participant | Austria entry point | Pipeline import | ~168 GWh/day H2 equivalent | 2030–32 | Development |
+| SoutH2 Corridor participant | Austria entry point | Pipeline import | ~4 Mt H2/year full system (~133 TWh/yr, ~365 GWh/day); OMV-specific allocation not disclosed | 2030–32 | Development |
 
 ## 11. Key hydrogen risks
 

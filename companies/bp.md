@@ -8,8 +8,11 @@
 low-carbon energy segment and has been substantially de-prioritised
 under the February 2025 strategy reset.
 **Data last updated:** 2026-04-13
-**Latest full fiscal year reported:** FY2024
-**Latest quarter reported:** Q1 2025 (29 April 2025)
+**Latest full fiscal year reported:** FY2024 (FY2025 results not yet
+processed in this profile; update pending)
+**Latest quarter covered here:** Q1 2025 (29 April 2025) — Q2–Q4
+2025 and Q1 2026 releases exist but have not been reflected in the
+segment snapshot below.
 
 ## 1. Business overview
 

@@ -53,7 +53,7 @@ Source: [Integrated Annual Report 2025](https://hexagonpurus.com/news/hexagon-pu
 
 | | FY2023 | FY2024 | FY2025 | CAGR |
 |---|---|---|---|---|
-| Revenue | NOK 1,323m | NOK 1,876m | NOK 1,144m | −2.9% |
+| Revenue | NOK 1,323m | NOK 1,876m | NOK 1,144m | −7.0% |
 | Net loss | not disclosed | not disclosed | NOK (1,529m) | — |
 
 ## 5. Hydrogen-specific operational KPIs

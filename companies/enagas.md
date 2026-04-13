@@ -34,7 +34,7 @@ of hydrogen capex within a ~€4.0bn total investment plan through 2030.
 | EBIT | €428.7m | €428.7m | flat |
 | EBITDA | not disclosed | €760.7m | — |
 | Net income (recurring) | €301.0m | €310.1m | +3.0% |
-| Net debt | not disclosed | €(2.4bn) | — |
+| Net debt | not disclosed | €2.4bn | — |
 | Employees (FTE) | not disclosed | 1,388 | — |
 
 FY2024 reported net income excludes a ~€360m non-recurring accounting

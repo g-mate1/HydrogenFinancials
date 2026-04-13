@@ -83,10 +83,16 @@ Source: [Q2 2024 earnings release](https://www.everfuel.com/news/everfuel-q2-202
   2023); ongoing JV capital calls under the Hy24 structure.
 - **Convertible / debt instruments outstanding:** Not disclosed;
   capital structure primarily equity and JV financing.
-- **Going-concern language in latest filing:** Not explicitly
-  flagged in Q2 2024 release but liquidity statement noted cash
-  "not expected to cover all planned activities the next 12 months"
-  absent capital injection.
+- **Going-concern / material uncertainty:** Effectively material.
+  The Q2 2024 release explicitly stated that cash "not expected to
+  cover all planned activities the next 12 months" without further
+  capital injection, and only €9.1m of the €13.1m Q2 2024 cash
+  balance was unrestricted — implying a 3–6 month runway at the
+  then-current burn. This liquidity stress was a direct precursor
+  to the Faro BidCo (Swiss Life AM) voluntary offer in September
+  2024 and the subsequent privatisation / delisting. Treat the
+  risk profile as on par with other distressed hydrogen pure-plays
+  such as McPhy and AFC Energy.
 
 ## 7. Notable recent events (past 12 months)
 

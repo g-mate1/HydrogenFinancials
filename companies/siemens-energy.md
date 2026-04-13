@@ -46,7 +46,7 @@ Source: [Q4 FY2025 earnings](https://www.siemens-energy.com/global/en/home/press
 
 | Metric | Q1 FY2026 | Q1 FY2025 | YoY |
 |---|---|---|---|
-| Revenue | €9.7bn | €8.9bn | +12.8% |
+| Revenue | €9.7bn | €8.9bn | +9.0% |
 | PBSI | €1.159bn | €0.481bn | +141% |
 | Orders | €17.6bn | — | — |
 | Backlog | €146bn | — | +8.6% |

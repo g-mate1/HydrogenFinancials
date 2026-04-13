@@ -38,9 +38,9 @@ DESNZ grant for the Chronos manufacturing line.
 | Revenue | £16.5m | £26.0m | +57.6% |
 | Gross profit | (£16.7m) | (£23.7m) | — |
 | Gross margin | −101.2% | −91.2% | +10.0pp |
-| Operating loss / EBIT | (£38.0m) | (£54.5m) | −43.4% |
-| EBITDA | (£30.4m) | (£33.0m) | −8.6% |
-| Net loss | (£27.2m) | (£45.5m) | −67.3% |
+| Operating loss / EBIT | (£38.0m) | (£54.5m) | worsened 43.4% |
+| EBITDA | (£30.4m) | (£33.0m) | worsened 8.6% |
+| Net loss | (£27.2m) | (£45.5m) | worsened 67.3% |
 | Cash & equivalents (end of period) | £230.3m | £207.0m | −10.1% |
 | Total debt | £0m | £0m | — |
 | Net cash / (net debt) | £230.3m | £207.0m | −10.1% |
@@ -58,7 +58,7 @@ Source: [ITM Power plc Annual Report 2025](https://itm-power-assets.s3.eu-west-2
 |---|---|---|---|
 | Revenue | £18.0m | £11.2m | +60.7% |
 | Gross margin | −36.1% | −56.7% | +20.6pp |
-| Operating loss | (£16.8m) | (£19.2m) | +12.5% |
+| Operating loss | (£16.8m) | (£19.2m) | improved 12.5% |
 | Cash & equivalents | £197.8m | £217.4m | −9.0% |
 | Backlog / order intake | £152m (71% profitable) | £145m (60% profitable) | +4.8% |
 

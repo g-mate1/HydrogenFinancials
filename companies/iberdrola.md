@@ -48,7 +48,7 @@ Source: [2024 results report](https://www.iberdrola.com/documents/20125/4923596/
 
 | Metric | Q4 / FY2025 | Q4 / FY2024 | YoY |
 |---|---|---|---|
-| Adjusted net income (FY2025) | €6,231m | €5,612m | +11% |
+| Adjusted net income (FY2025) | €6,231m | €5,612m | +10.3% |
 | Quarterly breakdown | not disclosed | not disclosed | — |
 
 ## 4. Three-year revenue trend

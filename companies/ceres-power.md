@@ -54,15 +54,20 @@ licensing, though operating losses persist.
 Source: [Ceres Power FY2024 final results statement](https://wp-ceres-2022.s3.eu-west-2.amazonaws.com/media/2025/03/Ceres-Power-Holdings-plc-Final-results-statement-FINAL.pdf);
 [FY2025 full-year results](https://www.ceres.tech/investors/)
 
-## 3. Latest quarter
+## 3. Latest interim / outlook
 
-| Metric | Q1 2026 | Q1 2025 | YoY |
-|---|---|---|---|
-| Revenue | not disclosed | £7.1m | — |
-| Gross margin | not disclosed | 80% | — |
-| Operating loss | not disclosed | (£9.2m) | — |
-| Cash & equivalents | not disclosed | £104.1m | — |
-| Backlog | £45m run-rate 2026 | £28.3m | — |
+Ceres reports only half-yearly (H1 interim in September; FY results in
+March). No quarterly release exists; the table below shows the most
+recent half-year data point and Ceres's own FY2026 run-rate outlook
+as disclosed with the 26 March 2026 full-year results.
+
+| Metric | FY2026 run-rate / outlook | H1 2025 (six months ended 30 Jun 2025) |
+|---|---|---|
+| Revenue | not disclosed | £7.1m |
+| Gross margin | not disclosed | 80% |
+| Operating loss | not disclosed | (£9.2m) |
+| Cash & equivalents | not disclosed | £104.1m |
+| Order book / run-rate | ~£45m run-rate 2026 | £28.3m backlog at 30 Jun 2025 |
 
 Source: [FY2025 results announcement (26 Mar 2026)](https://uk.advfn.com/market-news/article/13631/ceres-power-earns-first-royalties-as-global-partners-scale-up-solid-oxide-technology)
 
